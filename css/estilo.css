@@ -1,0 +1,11 @@
+#home {
+	background: linear-gradient(to right,#FF512F,#F09819);
+	color: white;
+}
+
+a {color: white;}
+
+.caixa{
+	padding: 60px 0;
+	border-bottom: 1px solid #1e3c72;
+}
